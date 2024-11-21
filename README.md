@@ -1,4 +1,4 @@
-##Contatos com Tabela Hash
+## Contatos com Tabela Hash
 
 Este é um programa em C para gerenciar uma lista de contatos utilizando uma tabela hash com encadeamento (listas ligadas). O programa permite adicionar, buscar, remover e exibir contatos, além de salvar e carregar os dados em um arquivo.
 
